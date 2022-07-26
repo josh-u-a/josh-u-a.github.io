@@ -6,4 +6,6 @@ layout: home
 
 josh-u-a
 
-[About](link docs/about.markdown)
+<!-- [About](link docs/about.markdown) -->
+
+Some normal text.
