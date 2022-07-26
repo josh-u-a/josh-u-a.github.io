@@ -5,3 +5,5 @@ permalink: /stuff/
 ---
 
 This is the **stuff** page. 
+
+Go HOME!
