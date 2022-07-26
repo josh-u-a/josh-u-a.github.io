@@ -6,4 +6,4 @@ layout: home
 
 josh-u-a
 
-[About]({% link docc/about.markdown %})
+[About](link docs/about.markdown)
