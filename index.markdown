@@ -6,6 +6,8 @@ layout: home
 
 josh-u-a
 
+Check. 
+
 [About]({% link /about %})
 
 Adding something to see if this works.
