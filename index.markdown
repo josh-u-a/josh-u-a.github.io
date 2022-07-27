@@ -4,10 +4,13 @@
 layout: home
 ---
 
-josh-u-a
+Welcome to my weird little world. Oh, it's not any weirdo than yours, just a different weird.
+I am also using this site as a tool for learning how to use a site. 
+I will talk about a lot of things, but some of my main interests are:
+- Physics
+- Mathematics
+- Philosophy
+- Coding
+- Data Science and Analysis
 
-Check. 
-
-[About]({% link about.markdown %})
-
-Adding something to see if this works.
+I hope something I put here will be found useful or enjoyable. 
