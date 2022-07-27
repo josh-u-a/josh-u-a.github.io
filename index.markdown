@@ -4,7 +4,7 @@
 layout: home
 ---
 
-Welcome to my weird little world. Oh, it's not any weirdo than yours, just a different weird.
+Welcome to my weird little world. Oh, it's not any weirder than yours, just a different weird.
 I am also using this site as a tool for learning how to use a site. 
 I will talk about a lot of things, but some of my main interests are:
 - Physics
