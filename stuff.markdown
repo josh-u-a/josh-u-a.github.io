@@ -6,4 +6,4 @@ permalink: /stuff/
 
 This is the **stuff** page. 
 
-Go [HOME!]({% link /home %})
+Go [HOME!]({% link index.markdown %})
