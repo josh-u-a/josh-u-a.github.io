@@ -8,6 +8,6 @@ josh-u-a
 
 Check. 
 
-[About]({% link /about.markdown %})
+[About]({% link about.markdown %})
 
 Adding something to see if this works.
