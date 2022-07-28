@@ -37,7 +37,7 @@ And a last bit, which I might make as another post, is about knowledge level. It
  
 That's the end of this post. Just wanted to share about some of the places where the very actions that are enacted *because* someone is a theist is the very thing that makes them **not** a theist, but rather self delusional and highly immune to cognitive dissonance. I don't mean this pejoratively, but rather as a matter of fact.
  
-Thanks,
+Thanks,<br>
 Josh
  
  
